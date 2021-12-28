@@ -7,8 +7,8 @@ After some experience with Java I started using NodeJS and AngularJS to implemen
 At that time I bought a Macbook air 🥳 and founded how much I love apple products 🍏.
 
 
-I downloaded Xcode and started exploring Swift. Now it's been over 5 years that I'm developing highly testable swift code for different companies.
-I have worked with more that 20 iOS developer all across the world over 10 different projects.
+I downloaded Xcode and started exploring Swift. Now it's been over 4 years that I'm developing highly testable swift code for different companies.
+I have worked with more that 15 iOS developer all across the world over 10 different projects.
 My goal is to provide the best user experience for my users, providing fast, optimized, responsive state-of-art pixel-perfect implementation, yet using what’s best on iOS development.
 I have experience working on native iOS applications using Xcode as a primary tool.
 One of my specialties is working with UI components, including Storyboards, Xibs, Sizing classes, Auto layouts, IBDesignables, and so on.
